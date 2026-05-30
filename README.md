@@ -1,9 +1,5 @@
 # Chainmind
-**✅ COMPLETE REPO + README.md**
 
-### `README.md`
-
-```markdown
 # ChainMind — AI Wallet Intelligence
 
 **Modern clone of [https://chainmind.lovable.app/](https://chainmind.lovable.app/)**
